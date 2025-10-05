@@ -37,6 +37,6 @@ How to Interact with the Dashboard
  * Cross-Filtering: Click on any element in a chart (like a country's bar or a section of a pie chart) to filter the entire dashboard page for that selection.
  * Tooltips: Hover over data points on the charts to see more detailed information and specific values.
  * Slicers/Filters: Use the filter pane in Power BI to drill down into specific years, countries, or income classifications.
-Author
- * [Your Name]
- * [Your Contact Information, e.g., LinkedIn Profile or Email]
+
+ * Preetham V R
+ * preetamvr962002@gmail.com 
